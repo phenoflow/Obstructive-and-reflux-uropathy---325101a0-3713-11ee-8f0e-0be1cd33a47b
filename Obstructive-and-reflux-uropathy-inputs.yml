@@ -1,0 +1,54 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/obstructive-and-reflux-uropathy-hydronephrosis---primary.py
+inputModule3:
+  class: File
+  path: python/obstructive-and-reflux-uropathy-hydrocalycosis---primary.py
+inputModule4:
+  class: File
+  path: python/obstructive-and-reflux-uropathy-ureter---primary.py
+inputModule5:
+  class: File
+  path: python/pelviureteric-obstructive-and-reflux-uropathy---primary.py
+inputModule6:
+  class: File
+  path: python/obstructive-and-reflux-uropathy---primary.py
+inputModule7:
+  class: File
+  path: python/ureteric-obstructive-and-reflux-uropathy---primary.py
+inputModule8:
+  class: File
+  path: python/obstructive-and-reflux-uropathy-unspecified---primary.py
+inputModule9:
+  class: File
+  path: python/other-obstructive-and-reflux-uropathy---primary.py
+inputModule10:
+  class: File
+  path: python/obstructive-and-reflux-uropathy-hydronephrosis---secondary.py
+inputModule11:
+  class: File
+  path: python/obstructive-and-reflux-uropathy-stricture---secondary.py
+inputModule12:
+  class: File
+  path: python/ureteral-obstructive-and-reflux-uropathy---secondary.py
+inputModule13:
+  class: File
+  path: python/obstructive-and-reflux-uropathy-unspecified---secondary.py
+inputModule14:
+  class: File
+  path: python/obstructive-and-reflux-uropathy-hydroureter---secondary.py
+inputModule15:
+  class: File
+  path: python/obstructive-and-reflux-uropathy-pyonephrosis---secondary.py
+inputModule16:
+  class: File
+  path: python/other-obstructive-and-reflux-uropathy---secondary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
